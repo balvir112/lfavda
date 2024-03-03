@@ -1,0 +1,99 @@
+DSA Array
+1. Reverse an Array
+2. Find the Missing Number
+3. Rotate Array
+4. Merge Sorted Arrays
+5. Remove Duplicates
+6. Find Maximum Subarray Sum
+7. Product of Array Except Self
+8. Two Sum
+9. Pascal’s Triangle
+10. Container With Most Water
+11. Find Peak Element
+12. Majority Element
+13. Best Time to Buy and Sell Stock
+14. Move Zeroes
+15. Valid Sudoku
+16. Trapping Rain Water
+17. Next Permutation
+18. Spiral Matrix
+19. Set Matrix Zeroes
+20. Search in Rotated Sorted Array
+
+
+
+
+
+
+
+Top 40 commonly asked DSA questions :
+
+- Arrays and Strings:
+1. Find the missing number in an array of integers.
+2. Implement an algorithm to rotate an array.
+3. Check if a string is a palindrome.
+4. Find the first non-repeating character in a string.
+5. Implement an algorithm to reverse a linked list.
+6. Merge two sorted arrays.
+7. Implement a stack using arrays/linked list.
+8. Write a program to remove duplicates from a sorted array.
+
+- Linked Lists:
+1. Detect a cycle in a linked list.
+2. Find the intersection point of two linked lists.
+3. Reverse a linked list in groups of k.
+4. Implement a function to add two numbers represented by linked lists.
+5. Clone a linked list with next and random pointer.
+
+- Trees and Binary Search Trees (BST):
+1. Find the height of a binary tree.
+2. Check if a binary tree is balanced.
+3. Find the lowest common ancestor in a binary
+tree.
+4. Serialize and deserialise a binary tree.
+5. Implement an algorithm for in-order traversal
+without recursion.
+6. Convert a BST to a sorted doubly linked list.
+
+- Searching and Sorting:
+1. Implement binary search.
+2. Find the kth smallest/largest element in an array.
+3. Implement quicksort.
+4. Count the number of inversions in an array.
+5. Search in a rotated sorted array.
+Implement a sorting algorithm for linked lists.
+
+- Dynamic Programming:
+1. Find the longest common subsequence.
+2. Calculate the nth Fibonacci number using dynamic programming.
+3. Coin change problem.
+4. Longest increasing subsequence.
+5. Knapsack problem.
+
+
+
+
+
+
+endless_success___'s profile picture
+If you build this project, recruiters will be seriously impressed with you because these projects showcase how your mind works in a fast way.
+
+So, please, in the current situation, before applying to any company, make sure to first build this project and then apply - it will increase the chances of being shortlisted.
+——————————————————————————————
+
+These are the seven algorithm projects.”
+
+1. Sorting Visualiser: Web app showcasing sorting algorithms visually.
+
+2. Pathfinding Algorithms Visualiser: Web tool illustrating pathfinding algorithms on a grid.
+
+3. Data Structure Playground: Interactive platform to manipulate data structures.
+
+4. Algorithmic Problem Solver: Tool to solve algorithmic problems with explanations.
+
+5. Graph Visualization Tool: Desktop app for interactive graph visualization.
+
+6. Dynamic Programming Simulator: Tool demonstrating dynamic programming concepts visually.
+
+7. Algorithmic Trading Bot: Project implementing algorithmic trading strategies for financial markets.
+
